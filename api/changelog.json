@@ -1,0 +1,62 @@
+{
+  "app": "SHADB",
+  "package": "com.shadb.prev1",
+  "developer": "@R4K4RMP",
+  "current_version": "1.3",
+  "releases": [
+    {
+      "version": "1.3",
+      "version_code": 5,
+      "release_date": "2026-06-29",
+      "status": "stable",
+      "title": "Stable Release",
+      "changes": [
+        "Performance Booster beberapa penambahan fitur",
+        "AppOps Manager dengan granular permission control",
+        "File Explorer dengan dukungan kompres ZIP",
+        "Settings aksen warna: Blue, Black, Dynamic",
+        "Rollback Center diperbarui dengan history lengkap",
+        "Stabilitas Shizuku reconnection ditingkatkan"
+      ]
+    },
+    {
+      "version": "1.2",
+      "version_code": 4,
+      "release_date": "2026-06-15",
+      "status": "beta",
+      "title": "Terminal & Network Tools",
+      "changes": [
+        "Built-in Terminal dengan Shizuku shell",
+        "Quick command shortcuts di Terminal",
+        "Network Tools: DNS flush, toggle data/WiFi",
+        "Share & clear log di Console Monitor"
+      ]
+    },
+    {
+      "version": "1.1",
+      "version_code": 3,
+      "release_date": "2026-06-01",
+      "status": "beta",
+      "title": "Package Manager & Settings",
+      "changes": [
+        "Package Manager: install, disable, backup APK",
+        "Settings Manager: DPI, animasi, timeout",
+        "Panduan setup Non-Root di Home screen",
+        "Dark/Light theme toggle"
+      ]
+    },
+    {
+      "version": "1.0",
+      "version_code": 1,
+      "release_date": "2026-05-20",
+      "status": "preview",
+      "title": "Initial Release",
+      "changes": [
+        "Fondasi Shizuku API integration",
+        "Status sistem & Shizuku connection checker",
+        "Bottom navigation 4 tab",
+        "Splash screen + branding awal"
+      ]
+    }
+  ]
+}
