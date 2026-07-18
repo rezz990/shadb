@@ -2,8 +2,21 @@
   "app": "SHADB",
   "package": "com.shadb.prev1",
   "developer": "@R4K4RMP",
-  "current_version": "1.4",
+  "current_version": "1.5",
   "releases": [
+    {
+      "version": "1.5",
+      "version_code": 7,
+      "release_date": "2026-07-18",
+      "status": "stable",
+      "title": "Stable Release",
+      "changes": [
+        "Private DNS Manager",
+        "Advanced UI Style System",
+        "Pemeliharaan & Optimalisasi Performa Kode",
+        "Integrasi & Navigasi"
+      ]
+    },
     {
       "version": "1.4",
       "version_code": 6,
