@@ -2,8 +2,23 @@
   "app": "SHADB",
   "package": "com.shadb.prev1",
   "developer": "@R4K4RMP",
-  "current_version": "1.5",
+  "current_version": "1.6",
   "releases": [
+     {
+      "version": "1.6",
+      "version_code": 7,
+      "release_date": "2026-07-21",
+      "status": "stable",
+      "title": "Stable Release",
+      "changes": [
+        "Menghapus pengaturan Skema Warna Aplikasi dan Aksen Warna Utama",
+        "Menghapus Simbol Refresh Di Bagian Kanan Atas",
+        "Pemeliharaan & Optimalisasi Performa Kode",
+        "Menambahkan "pulltorefresh"",
+        "Integrasi Fungsional Penuh Pada Bagian Gaya Tingkat Lanjut",
+        "Mengganti background hardcode di halaman utama dengan statistik device"
+      ]
+    },
     {
       "version": "1.5",
       "version_code": 7,
