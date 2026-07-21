@@ -1,8 +1,6 @@
-<center>
-<h1>SHADB</h1>
+<center><h1>SHADB</h1></center>
 
-A powerful, lightweight, and secure Android system tools app — based on the **Shizuku API**, without the need for full root.
-</center>
+<center>A powerful, lightweight, and secure Android system tools app — based on the **Shizuku API**, without the need for full root.</center>
 ---
 
 **🔷 WHAT IS SHADB?**
